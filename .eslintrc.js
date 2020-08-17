@@ -18,6 +18,7 @@ module.exports = {
     'react',
   ],
   'rules': {
-    'require-jsdoc': 'off'
+    'object-curly-spacing': 'off',
+    'require-jsdoc': 'off',
   },
 };

@@ -1,3 +1,6 @@
+.GoodsListElement.isSelected {
+    background-color: yellow;
+}
 .GoodsListElement {
     border-bottom: 0.5px solid black;
     margin: 0 10px 0 10px;
@@ -15,4 +18,7 @@
 
 .GoodsListElement_Button{
     width: 12%;
+}
+.GoodsListElement_Column.GoodsListElement_Button button{
+    cursor: pointer;
 }
